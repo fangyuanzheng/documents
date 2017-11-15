@@ -7,7 +7,7 @@ More detail information about Estuary, please refer to [http://open-estuary.org/
 These are the release binary for the Estuary version.
 ```
 1.2:  contains all files for release1.2
-2.0[ftp://117.78.41.188/releases/2.0/linux/Common](ftp://117.78.41.188/releases/2.0/linux/Common):  contains all files for release2.0
+2.0[http://117.78.41.188/releases/2.0/linux/Common](http://117.78.41.188/releases/2.0/linux/Common):  contains all files for release2.0
 [Release2.1](ftp://117.78.41.188/releases/2.1/linux/Common):  contains all files for release2.1
 [Release2.2](ftp://117.78.41.188/releases/2.2/linux/Common):  contains all files for release2.2
 [Release2.3](ftp://117.78.41.188/releases/2.3/linux/Common):  contains all files for release2.3

@@ -3,7 +3,7 @@ Estuary is a complete open source project for ARM64 ecosystem. It provides a tot
 
 More detail information about Estuary, please refer to [http://open-estuary.org/estuary](http://open-estuary.org/estuary).
 
-## Release Version
+# Release Version
 These are the release binary for the Estuary version.
 ```
   [1.2](ftp://117.78.41.188/releases/1.2/linux/Common):  contains all files for release1.2

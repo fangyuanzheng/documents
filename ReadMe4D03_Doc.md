@@ -49,7 +49,8 @@ if your host is not arm architecture, please execute
 ```bash
 ./estuary/submodules/build-kernel.sh --platform=D03 --output=workspace --cross=aarch64-linux-gnu-
 ```
-Note: more details about how to install `gcc-linaro-aarch64-linux-gnu-4.9-2014.09_linux`, please refer to <https://github.com/open-estuary/estuary/blob/master/doc/Toolchains_Guide.4All.md>.
+Note: 
+More details about toolchains, please refer to [Toolchains_Guide](https://github.com/open-estuary/estuary/blob/master/doc/Toolchains_Guide.4All.md).
 
 More detail about distributions, please refer to [Distributions_Guide.md](https://github.com/open-estuary/estuary/blob/master/doc/Distributions_Guide.4All.md).
 

@@ -9,7 +9,7 @@ After you executed `./estuary/build.sh --build_dir=./workspace` for D05, all tar
 **source**: `<project root>/uefi`
 
 build commands(supposedly, you are in `<project root>` currently):
-```shell
+```
 ./estuary/submodules/build-uefi.sh --platform=D05 --output=workspace
 ```
 
@@ -43,7 +43,8 @@ build commands(supposedly, you are in `<project root>` currently):
 
 `./estuary/submodules/build-kernel.sh --platform=D05 --output=workspace`, if your host is not arm architecture, please execute `./estuary/submodules/build-kernel.sh --platform=D05 --output=workspace --cross=aarch64-linux-gnu-`.
 
-Note: more details about how to install gcc-linaro-aarch64-linux-gnu-4.9-2014.09_linux, please refer to https://github.com/open-estuary/estuary/blob/master/doc/Toolchains_Guide.4All.md.
+Note: 
+More details about toolchains,please refer to [Toolchains_Guide](https://github.com/open-estuary/estuary/blob/master/doc/Toolchains_Guide.4All.md).
 
 More detail about distributions, please refer to [Distributions_Guide.md](https://github.com/open-estuary/estuary/blob/master/doc/Distributions_Guide.4All.md).
 

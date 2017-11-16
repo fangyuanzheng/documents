@@ -12,4 +12,3 @@ OpenSuse : Contain OpenSuse_ARM64.tar.gz and md5sum of it.
 RancherOS : Contain Rancher_ARM64.tar.gz and md5sum of it.
 Ubuntu : Contain Ubuntu_ARM64.tar.gz and md5sum of it.
 ```
-[房元政的github](http://github.com/fangyuanzheng "The github of vasily")

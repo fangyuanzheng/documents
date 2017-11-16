@@ -50,7 +50,7 @@ if your host is not arm architecture, please execute
 ./estuary/submodules/build-kernel.sh --platform=D03 --output=workspace --cross=aarch64-linux-gnu-
 ```
 Note: 
-More details about toolchains, please refer to [Toolchains_Guide](https://github.com/open-estuary/estuary/blob/master/doc/Toolchains_Guide.4All.md).
+More details about toolchains, please refer to [Toolchains_Guide.md](https://github.com/open-estuary/estuary/blob/master/doc/Toolchains_Guide.4All.md).
 
 More detail about distributions, please refer to [Distributions_Guide.md](https://github.com/open-estuary/estuary/blob/master/doc/Distributions_Guide.4All.md).
 
